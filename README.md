@@ -6,6 +6,8 @@
     </div>
  
   ##
+ 
  <div>
+     <t/>
     ![Snake animation](https://github.com/Roosevelt-Daflon/Roosevelt-Daflon/blob/output/github-contribution-grid-snake.svg)
  </div>
