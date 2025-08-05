@@ -32,7 +32,7 @@ Sou um engenheiro de software apaixonado por resolver problemas com código limp
 
 ---
 
-### ⚙️ Em construção...
+<!--### ⚙️ Em construção...
 
 Atualmente focado em aprimorar ainda mais minhas habilidades com .NET 8, microsserviços, mensageria e arquitetura de sistemas distribuídos.
 
@@ -52,4 +52,4 @@ Em breve, projetos públicos estarão disponíveis por aqui!
 
 ---
 
-<p align="center">🚀 Let's build something amazing.</p>
+<!--<p align="center">🚀 Let's build something amazing.</p>-->
