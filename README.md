@@ -42,10 +42,6 @@ Em breve, projetos públicos estarão disponíveis por aqui!
 <!-- Gifs animados e visualizações -->
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Roosevelt-Daflon)](https://git.io/streak-stats)
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Roosevelt-Daflon&theme=radical&column=4" alt="Troféus do GitHub"/>
 </p>
 
