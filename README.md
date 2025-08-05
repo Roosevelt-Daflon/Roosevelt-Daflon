@@ -43,11 +43,11 @@ Em breve, projetos públicos estarão disponíveis por aqui!
 <!-- Gifs animados e visualizações -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RooseveltDaflon&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roosevelt-Daflon&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RooseveltDaflon&theme=radical&column=4" alt="Troféus do GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Roosevelt-Daflon&theme=radical&column=4" alt="Troféus do GitHub"/>
 </p>
 
 ---
