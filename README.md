@@ -20,15 +20,15 @@ Sou um engenheiro de software apaixonado por resolver problemas com código limp
 
 ### 📈 GitHub em Ação
 
-[![Roosevelt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RooseveltDaflon&show_icons=true&theme=radical)](https://github.com/RooseveltDaflon)
+[![Roosevelt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RooseveltDaflon&show_icons=true&theme=radical)](https://github.com/Roosevelt-Daflon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RooseveltDaflon&layout=compact&theme=radical)](https://github.com/RooseveltDaflon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RooseveltDaflon&layout=compact&theme=radical)](https://github.com/Roosevelt-Daflon)
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-Roosevelt%20Daflon-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rooseveltdaflon)
+[![LinkedIn](https://img.shields.io/badge/-Roosevelt%20Daflon-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roosevelt-daflon-785016224/)
 
 ---
 
