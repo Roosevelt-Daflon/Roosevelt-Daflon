@@ -42,7 +42,7 @@ Em breve, projetos públicos estarão disponíveis por aqui!
 <!-- Gifs animados e visualizações -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roosevelt-Daflon&theme=radical" alt="GitHub Streak"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Roosevelt-Daflon)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
