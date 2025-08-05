@@ -20,9 +20,9 @@ Sou um engenheiro de software apaixonado por resolver problemas com código limp
 
 ### 📈 GitHub em Ação
 
-[![Roosevelt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RooseveltDaflon&show_icons=true&theme=radical)](https://github.com/Roosevelt-Daflon)
+[![Roosevelt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roosevelt-Daflon&show_icons=true&theme=radical)](https://github.com/Roosevelt-Daflon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RooseveltDaflon&layout=compact&theme=radical)](https://github.com/Roosevelt-Daflon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roosevelt-Daflon&layout=compact&theme=radical)](https://github.com/Roosevelt-Daflon)
 
 ---
 
