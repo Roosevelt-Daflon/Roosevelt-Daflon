@@ -8,7 +8,7 @@ Sou um engenheiro de software apaixonado por resolver problemas com código limp
 
 ### 🧰 Tecnologias & Especialidades
 
-- ✅ C# / .NET 6/7/8/9
+- ✅ C# / .NET
 - ✅ ASP.NET Core / Blazor / APIs REST
 - ✅ Entity Framework Core / Dapper / LINQ
 - ✅ SQL Server / PostgreSQL
